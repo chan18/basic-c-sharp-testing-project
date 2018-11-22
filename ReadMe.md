@@ -8,9 +8,9 @@
 
 # Goals
 * have minimal setup of c# project.
-* write unit testing the c# code.
+* write unit testing for c# code.
 * have minimal setup of c# for github.
-* c# and git source controll work flow.
+* c# and git version control work flow.
 * work flow of unit testing in vs2017.
 * unit testing setup in vs2017.
-* git version controll setup in vs2017
+* git version control setup in vs2017
